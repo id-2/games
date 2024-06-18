@@ -32,7 +32,7 @@ default-features = false
 
 [dev-dependencies]
 chirp-worker = { path = "../../../../lib/chirp/worker" }
-rustls = "0.20"
+rustls = "0.21"
 webpki = "0.22"
 webpki-roots = "0.22"
 
